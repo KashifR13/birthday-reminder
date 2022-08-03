@@ -1,2 +1,1 @@
-# birthday-reminder
-Birthday Reminder Project
+Birthday Reminder React Project
